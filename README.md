@@ -12,7 +12,7 @@
 [![Forks](https://img.shields.io/github/forks/AsadKhalil/FaceMaskDetection.svg?logo=github)](https://github.com/AsadKhalil/FaceMaskDetection/network/members)
 [![Stargazers](https://img.shields.io/github/stars/AsadKhalil/FaceMaskDetection.svg?logo=github)](https://github.com/AsadKhalil/FaceMaskDetection/stargazers)
 [![Issues](https://img.shields.io/github/issues/AsadKhalil/FaceMaskDetection.svg?logo=github)](https://github.com/AsadKhalil/FaceMaskDetection/Face-Mask-Detection/issues)
-<!-- [![MIT License](https://img.shields.io/github/license/AsadKhalil/FaceMaskDetection.svg?style=flat-square)](https://github.com/AsadKhalil/FaceMaskDetection/Face-Mask-Detection/blob/master/LICENSE) -->
+[![MIT License](https://img.shields.io/github/license/AsadKhalil/FaceMaskDetection.svg?style=flat-square)](https://github.com/AsadKhalil/FaceMaskDetection/Face-Mask-Detection/blob/master/LICENSE)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555)](https://www.linkedin.com/in/muhammad-asad10/)
 
 
