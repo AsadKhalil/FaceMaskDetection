@@ -1,6 +1,6 @@
 <h1 align="center">Face Mask Detection</h1>
 
-## OPEN SOURCE CONTEST
+
 
 <div align= "center">
   <h4>Face Mask Detection system built with OpenCV, Keras/TensorFlow using Deep Learning and Computer Vision concepts in order to detect face masks in static images as well as in real-time video streams.</h4>
@@ -12,7 +12,7 @@
 [![Forks](https://img.shields.io/github/forks/AsadKhalil/FaceMaskDetection.svg?logo=github)](https://github.com/AsadKhalil/FaceMaskDetection/network/members)
 [![Stargazers](https://img.shields.io/github/stars/AsadKhalil/FaceMaskDetection.svg?logo=github)](https://github.com/AsadKhalil/FaceMaskDetection/stargazers)
 [![Issues](https://img.shields.io/github/issues/AsadKhalil/FaceMaskDetection.svg?logo=github)](https://github.com/AsadKhalil/FaceMaskDetection/Face-Mask-Detection/issues)
-[![MIT License](https://img.shields.io/github/license/AsadKhalil/FaceMaskDetection.svg?style=flat-square)](https://github.com/AsadKhalil/FaceMaskDetection/Face-Mask-Detection/blob/master/LICENSE)
+<!-- [![MIT License](https://img.shields.io/github/license/AsadKhalil/FaceMaskDetection.svg?style=flat-square)](https://github.com/AsadKhalil/FaceMaskDetection/Face-Mask-Detection/blob/master/LICENSE) -->
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555)](https://www.linkedin.com/in/muhammad-asad10/)
 
 
@@ -25,8 +25,8 @@ In the present scenario due to Covid-19, there is no efficient face mask detecti
 
  
 ## :hourglass: Project Demo
-:movie_camera: [YouTube Demo Link]
-:computer: [Dev Link]
+<!-- :movie_camera: [YouTube Demo Link]
+:computer: [Dev Link] -->
 
 
 <p align="center"><img src="https://github.com/AsadKhalil/FaceMaskDetection/blob/master/Readme_images/Screen%20Shot%202020-05-14%20at%208.49.06%20PM.png" width="700" height="400"></p>
